@@ -1,2 +1,2 @@
-# MINIPROJECT
-STOCK PRICE PREDICTION
+# android
+android
